@@ -9,10 +9,10 @@
 # Description: Bash script to access to Workcloud server
 #
 # Environment IP Adress
-prd="52.192.178.150"
-sch="13.231.178.37"
-snd="3.112.228.130"
-dev="52.195.3.145"
+prd="XXX.XXX.XXX.XXX"
+sch="XXX.XXX.XXX.XXX"
+snd="XXX.XXX.XXX.XXX"
+dev="XXX.XXX.XXX.XXX"
 #
 # Server pem key
 jumpbox_pem="infra-prod-ec2-linux.pem"
