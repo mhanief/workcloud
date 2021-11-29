@@ -2,9 +2,11 @@
 #
 # Created by Hanief Harun
 # Email: hanief.harun@ceridian.com
+# Website: https://skrinhitam.wordpress.com/
+# GitHub: https://github.com/mhanief/
 # Last update: 29/11/2021 (DD/MM/YYYY)
 # Project: Workcloud
-# Description: Access to Workcloud Jumboxes
+# Description: Access to Workcloud Jumpboxes
 #
 # Environment IP Adress
 prd="52.192.178.150"
