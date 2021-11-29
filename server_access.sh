@@ -8,12 +8,6 @@
 # Project: Workcloud
 # Description: Bash script to access to Workcloud server
 #
-# Color text
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-ORANGE='\033[0;33m'
-NC='\033[0m' # No Color
-#
 # Environment IP Adress
 prd="52.192.178.150"
 sch="13.231.178.37"
@@ -26,8 +20,7 @@ instance_pem="WorkCloud_Sandbox.pem"
 #
 # Require user input
 read -p "Your OpsWorks ID: " ops_id
-echo -e "Please Select the Environment$"
-echo
+echo -e "\nPlease Select the Environment: "
 echo "1 = Production"
 echo "2 = Schaeffler"
 echo "3 = Sandbox"
