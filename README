@@ -6,3 +6,6 @@
 
 # jb_access.sh
 bash file for accessing WorkCloud Jumpboxes
+
+# server_access.sh
+Bash script to simplify access to Workcloud servers
