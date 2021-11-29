@@ -1,3 +1,8 @@
-# 1. Open /etc/rsyslog.conf and add "$ModLoad imfile" before the line "$IncludeConfig" in /etc/rsyslog.d/*.conf
-# 2. curl https://raw.githubusercontent.com/mhanief/workcloud/main/nginx.conf > /etc/rsyslog.d/nginx.conf
-# 3. Restart nginx
+
+# nginx.conf
+1. Open /etc/rsyslog.conf and add "$ModLoad imfile" before the line "$IncludeConfig" in /etc/rsyslog.d/*.conf
+2. curl https://raw.githubusercontent.com/mhanief/workcloud/main/nginx.conf > /etc/rsyslog.d/nginx.conf
+3. Restart nginx
+
+# jb_access.sh
+bash file for accessing WorkCloud Jumpboxes
