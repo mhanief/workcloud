@@ -4,7 +4,7 @@ sudo apt-get update -y && sudo apt-get install libxml2-utils make gcc bzip2 linu
 # Create config file
 sudo mkdir /opt/cylance/
 sudo touch /opt/cylance/config_defaults.txt
-sudo echo InstallToken=jgQnIw9fl88XMTjLPOM9ebsb > /opt/cylance/config_defaults.txt
+sudo echo InstallToken=XXXXXXXXXXXXXXXXXX > /opt/cylance/config_defaults.txt
 sudo echo SelfProtectionLevel=2 >> /opt/cylance/config_defaults.txt
 sudo echo LogLevel=2 >> /opt/cylance/config_defaults.txt
 sudo echo VenueZone=WorkCloud >> /opt/cylance/config_defaults.txt
