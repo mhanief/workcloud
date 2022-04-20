@@ -9,3 +9,6 @@ bash file for accessing WorkCloud Jumpboxes
 
 # server_access.sh
 Bash script to simplify access to Workcloud servers
+
+# install-cylance.sh
+scipt to install cylance
